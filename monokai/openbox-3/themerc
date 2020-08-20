@@ -1,0 +1,55 @@
+# MONOKAI OPENBOX THEME
+# by ELLIOT BUTTERWORTH
+# github.com/sourflour
+
+# Window geometry
+border.width: 3
+window.handle.width: 0
+
+window.active.border.color: #272822
+# window.inactive.border.color: #8fc029
+
+window.active.label.text.color: #f1ebeb
+window.inactive.label.text.color: #f1ebeb
+
+window.inactive.title.bg: solid flat
+window.inactive.title.bg.color: #48483e
+window.inactive.label.bg: solid flat
+window.inactive.label.bg.color: #48483e
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.unpressed.image.color: #f1ebeb
+window.inactive.button.pressed.image.color: #dc2566
+
+window.active.title.bg: solid flat
+window.active.title.bg.color: #55bcce
+window.active.title.separator.color: #55bcce
+window.active.label.bg: solid flat 
+window.active.label.bg.color: #55bcce
+window.active.button.unpressed.bg: parentrelative
+window.active.button.pressed.bg: parentrelative
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.pressed.bg: parentrelative
+window.active.button.unpressed.image.color: #f1ebeb
+window.active.button.pressed.image.color: #dc2566
+
+window.active.handle.bg: solid flat
+window.active.handle.bg.color: #8fc029
+window.active.grip.bg: parentrelative
+
+window.label.text.justify: Center
+
+osd.border.width: 2
+osd.border.color: #48483e
+osd.bg: solid flat
+osd.bg.color: #48483e
+osd.label.bg: solid flat
+osd.label.bg.color: #48483e
+osd.hilight.bg: solid flat
+osd.hilight.bg.color: #8fc029
+osd.unhilight.bg: solid flat
+osd.unhilight.bg.color: #272822
+
+osd.label.text.color: #f1ebeb
